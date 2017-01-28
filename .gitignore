@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .sass-cache
+=======
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+>>>>>>> master
 .DS_Store
